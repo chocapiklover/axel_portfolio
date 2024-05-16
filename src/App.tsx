@@ -11,6 +11,7 @@ function App() {
   const recentWorks = [
     { title: "5 No-Code SAAS Startups That Are Making $100,000+ a Month", videoSrc: "https://www.youtube.com/embed/KBFKTeFIQws?si=b4zVwzKP8wngF2V3", link: "https://youtu.be/KBFKTeFIQws?si=UsLOuaIJqnB3ndl2" },
     { title: "6 Ways Alcohol Is Slowly Killing You - ", videoSrc: "https://www.youtube.com/embed/WXstOWgUN98?si=9YFwJPyO6v238QAR", link: "https://youtu.be/WXstOWgUN98?si=8lSsIbxanlxdfvba" },
+    { title: "Best No-Code Tools 2024 - Hook", videoSrc: "https://www.youtube.com/embed/rAYajO90J3c?si=TVhi3uE-jA99xm8y&amp;controls=0", link: "https://youtu.be/rAYajO90J3c?si=PKmOSrzG8s8FhkL4" },
     { title: "5 AI No-Code Copywriting Tools - ", videoSrc: "https://www.youtube.com/embed/lT59B2P_X5I?si=KCDcxa2nDUFhn1R0", link: "https://youtu.be/lT59B2P_X5I?si=ImFLfxkLEkVq30II" },
   ];
   
